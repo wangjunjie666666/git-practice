@@ -15,4 +15,4 @@
 | `git add .` | 把所有改动加入暂存区 |
 | `git commit -m "说明"` | 提交一次快照 |
 | `git log --oneline` | 查看提交历史 |
-| `git diff` | 查看未暂存的改动 |
+| `git diff` | 查看未暂存的改动 |今天学会用 Git 了
